@@ -4,6 +4,12 @@ mod algebra {
     mod matrix;
 }
 
+mod physics {
+    mod algebra {
+        mod force2;
+    }
+}
+
 mod defi {
     mod auction {
         mod gda;

@@ -7,5 +7,6 @@ homepage = "https://github.com/dojoengine/origami"
 [lib]
 
 [dependencies]
-cubit = { git = "https://github.com/influenceth/cubit", rev = "b459053" }
-dojo = { git = "https://github.com/dojoengine/dojo", tag = "v0.3.4" }
+cubit = { git = "https://github.com/influenceth/cubit.git", rev = "b459053" }
+dojo = { git = "https://github.com/dojoengine/dojo.git", tag = "v0.3.4" }
+orion = { git = "https://github.com/Bal7hazar/orion.git", rev = "ea51515" }
